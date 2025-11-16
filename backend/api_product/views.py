@@ -13,7 +13,7 @@ class ProductView(generics.ListCreateAPIView):
     def perform_create(self, serializer):
         serializer.save(added_by=self.request.user)
 
-
+///////
 class GetProductView(generics.ListAPIView):
     serializer_class = EditProductSerializer
 
