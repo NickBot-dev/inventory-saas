@@ -55,7 +55,6 @@ Here I described way to deploy to VPS server manually
         + `ystemctl start postgresql-10.service`
         + `systemctl enable postgresql-10.service`
  
-    ///
  + Service   
     + frontend
         + create the service named frontend (port: 4200)\

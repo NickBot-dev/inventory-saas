@@ -12,7 +12,7 @@ backend/authentication/migrations/__pycache__/
 backend/authentication/urls/__pycache__/
 backend/authentication/social/__pycache__/
 backend/authentication/social/token/__pycache__/
-backend/.env
+backend/.env.sample
 
 frontend/node_modules
 frontend/.idea
